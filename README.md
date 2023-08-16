@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+Hi! I'm Nikhil Sharma,<br><br>A passionate Backend Developer from India.<br><br>I graduated in Computer Science and Engineering from SS College of Engineering in 2021.<br><br>I am currently learning Full Stack Development from Geekster since November 2022.<br><br>I've been using Java Spring Boot for Backend development.
 
 
 ## 🌐 Socials:
@@ -22,4 +22,3 @@
 [![](https://visitcount.itsvg.in/api?id=Nikhil-Sharma-CS&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
