@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Nikhil Sharma,<br><br>A passionate Backend Developer from India.<br><br>I graduated in Computer Science and Engineering from SS College of Engineering in 2021.<br><br>I am currently learning Full Stack Development from Geekster since November 2022.<br><br>I've been using Java Spring Boot for Backend development.
+Hi! I'm Nikhil Sharma,<br><br>A passionate Backend Developer from India.<br><br>I graduated in Computer Science and Engineering from SS College of Engineering in 2021.<br><br>I am currently learning Full Stack Development from Geekster since November 2022.<br><br>I've been using Java Spring Boot for Backend development.<br><br>I also have basic knowledge of Html, Css and Javascript.
 
 
 ## 🌐 Socials:
